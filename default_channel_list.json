@@ -75,21 +75,21 @@
         {
           "src": "vieon",
           "type": "web",
-          "url": "https://vieon.vn/truyen-hinh-truc-tuyen/vtv1-hd/"
+          "url": "#https://vieon.vn/truyen-hinh-truc-tuyen/vtv1-hd/"
         },
         {
           "src": "vtv",
           "type": "web",
-          "url": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html"
+          "url": "#https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html"
         },
         {
           "src": "sctv",
           "type": "web",
-          "url": "https://sctvonline.vn/detail/vtv1-hd-72574f3e"
+          "url": "#https://sctvonline.vn/detail/vtv1-hd-72574f3e"
         },
         {
           "type": "streaming",
-          "url": "https://code.vthanhtivi.pw/getlink/vieon/vtv1-hd/playlist.m3u8"
+          "url": "#https://code.vthanhtivi.pw/getlink/vieon/vtv1-hd/playlist.m3u8"
         }
       ]
     },
