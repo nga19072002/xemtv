@@ -222,7 +222,7 @@ https://vmttv.dpdns.org/VTVGo/?sctv14
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/SCTV15HD/manifest.mpd
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/HF8Odbai0ixX4FPA8KqCaLs1VOA4ohXFeEchMnmZC1Q/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNjQxNTVkMjctY2Y1ZC00ZjgyLTlmNTktNzMwMTQ5M2ZjOGIyLnBuZw==.png", SCTV16 HD
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv16-dd1535e8
+https://liveatmvng.vtvprime.vn/live/data8/SCTV16/Live_DASHDRM/SCTV16.mpd
 #EXTINF:-1 tvg-id="sctv17" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/8fpfcS-6YDwMwZT8ej5U_ll9yYJvt1mZaCeSBmi5jnI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNDQ5ODA4NWQtYmUwNC00NDFiLWI2NDYtM2JlMTJkZjBlNGRjLnBuZw==.png", SCTV17 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
